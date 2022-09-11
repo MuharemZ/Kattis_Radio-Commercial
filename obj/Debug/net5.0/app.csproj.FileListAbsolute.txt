@@ -1,0 +1,16 @@
+C:\MyWorkStuff\SchoolProjects\Radio_Commercial\app\bin\Debug\net5.0\app.exe
+C:\MyWorkStuff\SchoolProjects\Radio_Commercial\app\bin\Debug\net5.0\app.deps.json
+C:\MyWorkStuff\SchoolProjects\Radio_Commercial\app\bin\Debug\net5.0\app.runtimeconfig.json
+C:\MyWorkStuff\SchoolProjects\Radio_Commercial\app\bin\Debug\net5.0\app.runtimeconfig.dev.json
+C:\MyWorkStuff\SchoolProjects\Radio_Commercial\app\bin\Debug\net5.0\app.dll
+C:\MyWorkStuff\SchoolProjects\Radio_Commercial\app\bin\Debug\net5.0\ref\app.dll
+C:\MyWorkStuff\SchoolProjects\Radio_Commercial\app\bin\Debug\net5.0\app.pdb
+C:\MyWorkStuff\SchoolProjects\Radio_Commercial\app\obj\Debug\net5.0\app.csproj.AssemblyReference.cache
+C:\MyWorkStuff\SchoolProjects\Radio_Commercial\app\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyWorkStuff\SchoolProjects\Radio_Commercial\app\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+C:\MyWorkStuff\SchoolProjects\Radio_Commercial\app\obj\Debug\net5.0\app.AssemblyInfo.cs
+C:\MyWorkStuff\SchoolProjects\Radio_Commercial\app\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+C:\MyWorkStuff\SchoolProjects\Radio_Commercial\app\obj\Debug\net5.0\app.dll
+C:\MyWorkStuff\SchoolProjects\Radio_Commercial\app\obj\Debug\net5.0\ref\app.dll
+C:\MyWorkStuff\SchoolProjects\Radio_Commercial\app\obj\Debug\net5.0\app.pdb
+C:\MyWorkStuff\SchoolProjects\Radio_Commercial\app\obj\Debug\net5.0\app.genruntimeconfig.cache
